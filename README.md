@@ -1,1 +1,1 @@
-# work18- uppercases the user input
+# work18- uppercase
